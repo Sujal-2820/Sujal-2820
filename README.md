@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **sujal123soni@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/sujal-soni/overlay/1635512790462/single-media-viewer/?profileId=ACoAADcXyhQB8EJqYmJvlICavtEXslINy5D4ICQ
-
 - ⚡ Fun fact **I Think I am Funny😅**
 
 <h3 align="left">Connect with me:</h3>
