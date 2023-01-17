@@ -1,3 +1,4 @@
+![logo](https://github.com/Sujal-2820/Sujal-2820/blob/main/Blue%20%26%20White%20Futuristic%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sujal Soni</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
