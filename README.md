@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-2820&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-2820" /> </p>
 
-- 🔭 I’m currently working on **Result Management System**
+- 🔭 I’m currently working on **API project to connect organizations**
 
-- 🌱 I’m currently learning **React.js, Angular.js, SQL**
-
-- 👯 I’m looking to contribute on [FOSSologyUI](https://github.com/fossology/FOSSologyUI.git)
+- 🌱 I’m currently learning **React.js, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820)
 
