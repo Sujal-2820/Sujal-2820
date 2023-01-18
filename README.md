@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **API project to connect organizations**
 
-- 🌱 I’m currently learning **React.js, SQL**
+- 🌱 I’m currently learning **Angular, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820)
 
