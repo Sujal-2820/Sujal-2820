@@ -1,3 +1,4 @@
+![logo](https://github.com/Sujal-2820/Sujal-2820/blob/main/twitter%20banner.png)
 <h1 align="center">Hi 👋, I'm Sujal Soni</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
