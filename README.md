@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML,CSS, JavaScript, Node.js, Java, php, SQL**
 
-- 🗒️ View My Resume [shorturl.at/gpRW9] (Sujal Soni's Resume)
+- 🗒️ View My Resume <a href="https://www.linkedin.com/in/sujal-soni/overlay/1635519735020/single-media-viewer/?profileId=ACoAADcXyhQB8EJqYmJvlICavtEXslINy5D4ICQ">Sujal Soni's Resume</a>
 
 - 📫 How to reach me **sujal123soni@gmail.com**
 
