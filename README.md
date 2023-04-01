@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Result Management System**
 
-- 🌱 I’m currently learning **React.js, Angular.js, SQL**
+- 🌱 I’m currently learning **React.js, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820)
 
-- 💬 Ask me about **HTML,CSS, JavaScript, Node.js, Java, php, SQL**
+- 💬 Ask me about **HTML,CSS, JavaScript, Node.js, SQL**
 
 - 🗒️ View My Resume <a href="https://www.linkedin.com/in/sujal-soni/overlay/1635519735020/single-media-viewer/?profileId=ACoAADcXyhQB8EJqYmJvlICavtEXslINy5D4ICQ">Sujal Soni's Resume</a>
 
