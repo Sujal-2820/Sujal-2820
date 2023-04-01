@@ -14,7 +14,9 @@
 
 - 🗒️ View My Resume <a href="https://www.linkedin.com/in/sujal-soni/overlay/1635519735020/single-media-viewer/?profileId=ACoAADcXyhQB8EJqYmJvlICavtEXslINy5D4ICQ">Sujal Soni's Resume</a>
 
-- 📫 How to reach me **sujal123soni@gmail.com**
+- 🧑🏻‍💻 My Latest Project <a href="https://help-geared.uw.r.appspot.com/">Help Geared</a>
+
+- 📫 How to reach me **sujal28soni@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny😅**
 
