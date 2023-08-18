@@ -4,19 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-2820&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-2820" /> </p>
 
-- 🌱 I’m currently learning **React.js, NoSQL**
+- 🌱 I’m currently learning **Next.js, NoSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820)
 
-- 💬 Ask me about **HTML,CSS, JavaScript, Node.js, SQL**
+- 💬 Ask me about **Node.js, React.js, Frontend Web Development, Backend Web Development SQL**
 
-- 🗒️ View My Resume <a href="https://www.linkedin.com/in/sujal-soni/overlay/1635519735020/single-media-viewer/?profileId=ACoAADcXyhQB8EJqYmJvlICavtEXslINy5D4ICQ">Sujal Soni's Resume</a>
+- 🙋‍♂️ View my Portfolio <a href="https://sujalsoni.vercel.app">Sujal Soni's Portfolio</a>
+
+- 🗒️ View My Resume <a href="https://sujalsoni.vercel.app/assets/pdf/SujalSoni_Resume1.docx">Sujal Soni's Resume</a>
 
 - 🧑🏻‍💻 My Latest Project <a href="https://help-geared.uw.r.appspot.com/">Help Geared</a>
 
 - 📫 How to reach me **sujal28soni@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny😅**
+- ⚡ Fun fact **I Think I can code well😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
