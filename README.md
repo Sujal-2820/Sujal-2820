@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820)
 
-- 💬 Ask me about **Node.js, React.js, Frontend Web Development, Backend Web Development SQL**
+- 💬 Ask me about **Node.js, React.js, Frontend Web Development, Backend Web Development, NoSQL, SQL**
 
 - 🙋‍♂️ View my Portfolio <a href="https://sujalsoni.vercel.app">Sujal Soni's Portfolio</a>
 
