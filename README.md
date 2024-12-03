@@ -14,7 +14,7 @@
 
 - 🗒️ View My Resume <a href="https://sujalsoni.vercel.app/assets/pdf/SujalSoni_Resume1.docx">Sujal Soni's Resume</a>
 
-- 🧑🏻‍💻 My Latest Project <a href="https://help-geared.uw.r.appspot.com/">Help Geared</a>
+- 🧑🏻‍💻 My Latest Project <a href="https://github.com/Sujal-2820/SkillPath">Skill Path</a>
 
 - 📫 How to reach me **sujal28soni@gmail.com**
 
