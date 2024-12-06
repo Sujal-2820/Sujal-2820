@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js, NoSQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820)
+- 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820?tab=repositories)
 
 - 💬 Ask me about **Node.js, React.js, Frontend Web Development, Backend Web Development, NoSQL, SQL**
 
