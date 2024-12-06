@@ -12,13 +12,13 @@
 
 - 🙋‍♂️ View my Portfolio <a href="https://sujalsoni.vercel.app">Sujal Soni's Portfolio</a>
 
-- 🗒️ View My Resume <a href="https://sujalsoni.vercel.app/assets/pdf/SujalSoni_Resume1.docx">Sujal Soni's Resume</a>
+- 🗒️ View My Resume <a href="https://drive.google.com/file/d/1Edb0etkxOWmxg4Zc6butsBA9SsXRxEVc/view?usp=sharing">Sujal Soni's Resume</a>
 
 - 🧑🏻‍💻 My Latest Project <a href="https://github.com/Sujal-2820/SkillPath">Skill Path</a>
 
 - 📫 How to reach me **sujal28soni@gmail.com**
 
-- ⚡ Fun fact **I Think I can code well😅**
+- ⚡ Fun fact **I like to think I code pretty well... most of the time!😅😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
