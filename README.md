@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-2820&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-2820" /> </p>
 
-- 🌱 I’m currently making projects using **Next.js, NoSQL, Firebase, Google Cloud Technologies, PostgreSql, Supabase**
+- 🌱 I’m currently making projects using **Next.js, NoSQL, Firebase, Google Cloud Technologies, PostgreSQL, Supabase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujal-2820](https://github.com/Sujal-2820?tab=repositories)
 
