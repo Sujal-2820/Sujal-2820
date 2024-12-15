@@ -16,6 +16,8 @@
 
 - 🧑🏻‍💻 My Latest Project <a href="https://github.com/Sujal-2820/SkillPath">Skill Path</a>
 
+- 📝 I am currently working on <a href="https://github.com/Sujal-2820/MentorSpace">MentorSpace</a>
+
 - 📫 How to reach me **sujal28soni@gmail.com**
 
 - ⚡ Fun fact **I like to think I code pretty well... most of the time!😅**
