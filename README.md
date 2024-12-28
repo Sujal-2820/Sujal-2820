@@ -14,7 +14,7 @@
 
 - 🗒️ View My Resume <a href="https://drive.google.com/file/d/1Edb0etkxOWmxg4Zc6butsBA9SsXRxEVc/view?usp=sharing">Sujal Soni's Resume</a>
 
-- 🧑🏻‍💻 My Latest Project <a href="https://github.com/Sujal-2820/SkillPath">Skill Path</a>
+- 🧑🏻‍💻 My Latest Projects: <a href="https://github.com/Sujal-2820/MentorSpace">MentorSpace</a> and <a href="https://github.com/Sujal-2820/SkillPath">Skill Path</a>
 
 - 📝 I am currently working on <a href="https://github.com/Sujal-2820/MentorSpace">MentorSpace</a>
 
