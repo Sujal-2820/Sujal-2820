@@ -22,9 +22,7 @@
 
 - ⚡ Fun fact **I like to think I code pretty well... most of the time!😅**
 
-
 <br/>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
