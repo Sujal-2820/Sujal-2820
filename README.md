@@ -43,5 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-2820&show_icons=true&locale=en&layout=compact" alt="sujal-2820" /></p>
 <br/>
+<br/>
 
 [![An image of @sujal2820's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujal2820)](https://holopin.io/@sujal2820)
